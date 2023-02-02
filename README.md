@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=wltn2858)](https://solved.ac/wltn2858)
-
 <!--
 **soojik/soojik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
