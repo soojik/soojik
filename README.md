@@ -38,9 +38,11 @@
 
 ### 💻 Projects
 
+- [영상 형태의 레시피 공유 플랫폼 cookeat](https://github.com/cookeat-3ce), 2024.08 ~ 2024.09
+- [백화점 외부 주차장 위치 및 주차 현황 파악 서비스 parkro](https://github.com/parkro-99s), 2024.08
 - [릴레이 어린이 동화책 공모전 doodling](https://github.com/moka-doodling), 2024.06
 - [개발자 성장 중심의 생태계를 위한 웹 서비스 developers](https://github.com/kcs-developers), 2023.02 ~ 2023.04
-- [매일 스스로에 질문 하나씩, QDiary](https://github.com/soojik/DiaryApp), 2021.02
+<!-- - [매일 스스로에 질문 하나씩, QDiary](https://github.com/soojik/DiaryApp), 2021.02 -->
 
 <hr>
 
